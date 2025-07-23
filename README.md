@@ -36,13 +36,6 @@
 
 ---
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mat-hcb0408/Mat-hcb0408/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 📫 Connect with me
 
 <div align="center">
