@@ -46,7 +46,7 @@
 ### 📫 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-henrique-campos-barbosa/" target="_blank">
+  <a href="[https://www.linkedin.com/in/matheus-henrique-campos-barbosa/](https://www.linkedin.com/in/matheus-henrique-campos-barbosa-550481368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/mhcb_0408" target="_blank">
