@@ -5,7 +5,7 @@
 <h3 align="center">I'm Matheus Henrique — developer, tech enthusiast, lifelong learner, and English/Portuguese speaker.</h3>
 
 <p align="center">
-🎯 Focused on full-stack development and passionate about backend, aviation, and always learning something new.
+🎯 Focused on full-stack development, more backend and always learning something new.
 <br>💻 I enjoy solving problems, working in teams, and writing clean, efficient code.
 </p>
 
